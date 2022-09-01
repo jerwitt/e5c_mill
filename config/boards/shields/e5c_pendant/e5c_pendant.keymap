@@ -25,7 +25,7 @@
                 &kp DOWN
                 &kp PG_DN
                 &kp PG_UP
-                LA(F)
+                &kp LA(F)
             >;
         };
     };
