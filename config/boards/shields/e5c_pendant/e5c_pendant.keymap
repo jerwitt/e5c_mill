@@ -22,7 +22,7 @@
                 &kp LEFT
                 &kp RIGHT
                 &kp UP
-                &KP DOWN
+                &kp DOWN
                 &kp PG_DN
                 &kp PG_UP
                 LA(F)
