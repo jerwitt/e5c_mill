@@ -1,0 +1,9 @@
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_E5C_PENDANT
+
+config ZMK_KEYBOARD_NAME
+    default "e5c pendant"
+
+endif

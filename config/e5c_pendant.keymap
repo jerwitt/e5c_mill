@@ -14,8 +14,18 @@
  
         default_layer {
             bindings = <
-                &kp X
-                &kp Z
+                &kp LA(R)
+                &kp SPACE
+                &kp ESC
+                &kp LSHIFT
+                &kp LCTRL
+                &kp LEFT
+                &kp RIGHT
+                &kp UP
+                &KP DOWN
+                &kp PG_DN
+                &kp PG_UP
+                LA(F)
             >;
         };
     };

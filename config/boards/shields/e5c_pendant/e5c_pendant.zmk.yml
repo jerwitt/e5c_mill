@@ -1,0 +1,8 @@
+file_format: "1"
+id: e5c_pendant 
+name: e5c pendant
+type: shield
+url: https://github.com/jerwitt/e5c_mill
+requires: [pro_micro]
+features:
+  - keys
