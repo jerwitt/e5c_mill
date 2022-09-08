@@ -45,7 +45,6 @@
                 &out OUT_BLE
                 &out BT_CLR
                 &trans
-                
             >;
         };
     };
