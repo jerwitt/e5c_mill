@@ -25,8 +25,8 @@
                 &kp LCTRL
                 &kp LEFT
                 &kp RIGHT
-                &kp UP
                 &kp DOWN
+                &kp UP 
                 &kp PG_DN
                 &kp PG_UP
                 &lt LOWER F
