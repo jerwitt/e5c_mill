@@ -44,7 +44,7 @@
                 &bt BT_SEL 0
                 &out OUT_TOG
                 &out OUT_BLE
-                &out BT_CLR
+                &bt BT_CLR
                 &trans
             >;
         };
