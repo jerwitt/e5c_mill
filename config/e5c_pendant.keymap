@@ -10,7 +10,7 @@
 #include <dt-bindings/zmk/outputs.h>
 
 #define DEFAULT 0
-#define ADJUST 1
+#define LOWER 1
  
 / {
     keymap {
@@ -29,10 +29,10 @@
                 &kp DOWN
                 &kp PG_DN
                 &kp PG_UP
-                &lt ADJUST F
+                &lt LOWER F
             >;
         };
-        adjust_layer {
+        lower_layer {
             bindings = <
                 &kp A
                 &kp B
